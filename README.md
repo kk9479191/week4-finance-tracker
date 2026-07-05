@@ -62,7 +62,8 @@ cd week4-finance-tracker
 python run.py
 ```
 ## Image 
-Image 1
+<img width="789" height="1016" alt="output" src="https://github.com/user-attachments/assets/4a97ccd1-e08a-4a49-8ffc-244940daef88" />
+
 
 ## Sample Functionalities
 
